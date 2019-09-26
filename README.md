@@ -1,2 +1,2 @@
-# First-repository
+# username.github.io
 My first repository
